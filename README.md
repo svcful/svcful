@@ -1,4 +1,10 @@
-# Svcful: A tool for defining and maintaining a service-oriented architecture
+# Svcful: A tool for defining and maintaining a service-oriented architecture in a GitOps-friendly way
+
+## Principles
+
+1. **All changes are made at code level** - this allows for approval processes to work their magic
+2. **Centralised specification, decentralised implementation** - this gives us 12-factor love
+3. **Documentation-driven changes** - documentation always gets outdated, let's change that
 
 ## How it works
 
